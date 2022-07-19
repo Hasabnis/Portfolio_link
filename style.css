@@ -424,7 +424,7 @@ nav ul .fas{
     }
 
     .work-list{
-        grid-template-columns: repeat(auto-fit,minmax(2520px,1fr));
+        grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
     }
 
     .contact-details p{
